@@ -1,19 +1,9 @@
-### gradlewj
-The file "gradlewj.bat" defines the path to a JDK. \
-It may be used, when another java, than defined via JAVA_HOME is needed for the project. \
-Modify that file, so that the path in it points to your JDK.
+### ListIntersect PRO
+ListIntersect PRO is an example application using JavaFX and RxJava and I created using Gradle as build tool.
 
-Use it, as if you would use gradlew.
-```
-gradlewj <GRADLEW COMMANDS>
-```
+I have also implemented a few unit tests using JUnit to make sure that the most critical parts also work properly including the corner cases and that I did not forget about some special cases.
 
-### Build
-To package the project as a jar type:
-```
-gradlew build
-```
-The output will be under `.\out`
+After extracting the attached zip file you should be able to start the application by executing simply gradle run:
 
 
 ### Run
