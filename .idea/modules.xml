@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ListIntersectPRO.iml" filepath="$PROJECT_DIR$/.idea/modules/ListIntersectPRO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ListIntersectPRO_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ListIntersectPRO_main.iml" group="ListIntersectPRO" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ListIntersectPRO_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ListIntersectPRO_test.iml" group="ListIntersectPRO" />
+    </modules>
+  </component>
+</project>
