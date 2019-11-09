@@ -1,5 +1,5 @@
 ### ListIntersect PRO
-ListIntersect PRO is an example application using JavaFX and RxJava and I created using Gradle as build tool.
+ListIntersect PRO is a simple application using JavaFX and RxJava. It may be build using Gradle.
 
 I have also implemented a few unit tests using JUnit to make sure that the most critical parts also work properly including the corner cases and that I did not forget about some special cases.
 
